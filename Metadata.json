@@ -1,0 +1,20 @@
+{
+    "Author": "James R Tabor",
+    "ContentSize": 1778,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/export-available-azure-vm-sizes-for-all-locations/master/ExportAzureAvailableVMSizes.ps1",
+    "DownloadCount": 661,
+    "Id": "Export-Available-Azure-VM-35876745",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 435,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-5-16T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Wanted to share a quick post with a script I seem to use all the time to get a spreadsheet with all the available VM sizes available for use in each region.SYNOPSISThis script loads Azure VMs into a Sharepoint Online list.DESCRIPTIONRetrieves a list of all Azure locations",
+    "Title": "Export Available Azure VM Sizes for all locations",
+    "UpdatedDate": "2017-7-25T00:00:00",
+    "Url": "https://github.com/azureautomation/export-available-azure-vm-sizes-for-all-locations",
+    "UserTags": "Microsoft Azure, Windows Azure Virtual Machines"
+}
